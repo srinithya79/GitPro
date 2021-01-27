@@ -1,0 +1,6 @@
+-- Creating branches , tags
+-- cherry pick
+-- revert to specific branch / tag
+-- merging one or more branches
+-- resolving merge conflicts
+-- rebase
